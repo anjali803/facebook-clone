@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-# facebook-clone
-This is a repo contain the UI interface developed using flutter 
-=======
-# facebook
 
-A new Flutter project.
+This is a repository which  contain the  fackbook-clone UI developed using flutter 
+=======
+
+My first Flutter project.
 
 ## Getting Started
 
@@ -18,4 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> 6f01e98 (first commit)
+
